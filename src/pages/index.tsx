@@ -25,7 +25,7 @@ export function PageFrame() {
         <NavbarToggle aria-controls="basic-navbar-nav" />
         <NavbarCollapse>
           <NavLink className="text-white" href="#/">
-            Home
+            this is Home
           </NavLink>
           <NavLink className="text-white" href="#/component">
             Component
